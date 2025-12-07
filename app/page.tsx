@@ -225,7 +225,7 @@ export default function Home() {
               <ScrollAnimation>
                 <div className="relative">
                   <img
-                    src="/developer-laptop.png"
+                    src="/unnamed(1)"
                     alt="Developer profile"
                     className="rounded-lg border border-border hover:border-accent/50 transition"
                   />
