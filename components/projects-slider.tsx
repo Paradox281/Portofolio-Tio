@@ -8,7 +8,7 @@ const projects = [
     title: "Penjualan Ayam Geprek Berbasis Website",
     description: "Sebuah aplikasi web sederhana yang dirancang untuk membantu pengelolaan penjualan ayam geprek secara efisien. Sistem ini memungkinkan admin untuk mengelola data menu, transaksi, serta melihat laporan penjualan secara berkala. Cocok digunakan untuk usaha kuliner skala kecil hingga menengah.",
     tags: ["PHP", "HTML", "CSS","JavaScript","MySQL"],
-    image: "/geprek.png",
+    image: "/Geprek.png",
     link: "https://github.com/Paradox281/website-penjualanayamgeprek",
     demo: "#"
   },
